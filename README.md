@@ -5,4 +5,4 @@ A very simple project to demonstrate using Newman to run a Postman collection th
 The collection and environment files have been taken from the All-Things-Postman Repo.
 In order to use TravisCI in you're own projects 
 you will need to signup and then sync it to your Github account.
-March 26 - edit
+March 28 - editXX
